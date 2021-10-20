@@ -16,12 +16,6 @@
 # Letgo Bot Pro
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Letgo_logo.png/150px-Letgo_logo.png)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # What is Letgo Bot Pro ? 
 Letgo Bot Pro is a bot which shares post on Letgo . The bot contains some features . Usable some shopping sites products to share on Letgo . You can choose site name , category name  ,  profit rate , price type , minimum price , description .  
 ## Site Name
