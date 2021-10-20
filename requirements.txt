@@ -1,0 +1,6 @@
+requests
+bs4
+parsel
+selenium
+pyautogui
+pandas
